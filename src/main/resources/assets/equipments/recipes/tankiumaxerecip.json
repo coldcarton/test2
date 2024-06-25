@@ -1,0 +1,30 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "equipments:tankiumingot"
+    },
+    "3": {
+      "item": "equipments:tankiumingot"
+    },
+    "4": {
+      "item": "minecraft:diamond_axe"
+    },
+    "5": {
+      "item": "equipments:tankiumingot"
+    },
+    "7": {
+      "item": "equipments:tankiumingot"
+    }
+  },
+  "result": {
+    "item": "equipments:tankiumaxe",
+    "count": 1
+  }
+}

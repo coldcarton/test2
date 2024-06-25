@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Tankiumingot"
+      },
+      {
+        "value": "CUSTOM:Tankiumingot"
+      },
+      {
+        "value": "CUSTOM:Tankiumingot"
+      },
+      {
+        "value": "CUSTOM:Tankiumingot"
+      },
+      {
+        "value": "Items.DIAMOND_LEGGINGS"
+      },
+      {
+        "value": "CUSTOM:Tankiumingot"
+      },
+      {
+        "value": "CUSTOM:Tankiumingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Tankiumingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tank.legs"
+    },
+    "name": "tankarmour3",
+    "namespace": "mod"
+  }
+}

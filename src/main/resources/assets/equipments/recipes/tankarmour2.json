@@ -1,0 +1,39 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:tankiumingot"
+    },
+    "2": {
+      "item": "equipments:tankiumingot"
+    },
+    "3": {
+      "item": "equipments:tankiumingot"
+    },
+    "4": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "5": {
+      "item": "equipments:tankiumingot"
+    },
+    "6": {
+      "item": "equipments:tankiumingot"
+    },
+    "7": {
+      "item": "equipments:tankiumingot"
+    },
+    "8": {
+      "item": "equipments:tankiumingot"
+    }
+  },
+  "result": {
+    "item": "equipments:tankbody",
+    "count": 1
+  }
+}

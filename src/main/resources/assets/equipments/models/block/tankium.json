@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "equipments:blocks/tankium",
+    "up": "equipments:blocks/tankium",
+    "north": "equipments:blocks/tankium",
+    "east": "equipments:blocks/tankium",
+    "south": "equipments:blocks/tankium",
+    "west": "equipments:blocks/tankium",
+    "particle": "equipments:blocks/tankium"
+  }
+}

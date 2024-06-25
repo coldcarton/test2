@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tankiumaxe",
+    "customModelName": "Normal",
+    "name": "Tankium Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 0.9,
+    "enchantability": 13,
+    "damageVsEntity": 9.5,
+    "usageCount": 1789,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Tankiumingot"
+      }
+    ]
+  }
+}

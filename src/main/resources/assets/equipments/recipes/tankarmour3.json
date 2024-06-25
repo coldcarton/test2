@@ -1,0 +1,34 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "equipments:tankiumingot"
+    },
+    {
+      "item": "equipments:tankiumingot"
+    },
+    {
+      "item": "equipments:tankiumingot"
+    },
+    {
+      "item": "equipments:tankiumingot"
+    },
+    {
+      "item": "minecraft:diamond_leggings"
+    },
+    {
+      "item": "equipments:tankiumingot"
+    },
+    {
+      "item": "equipments:tankiumingot"
+    },
+    {
+      "item": "equipments:tankiumingot"
+    }
+  ],
+  "result": {
+    "item": "equipments:tanklegs",
+    "count": 1
+  }
+}
