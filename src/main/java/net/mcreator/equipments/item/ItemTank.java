@@ -33,8 +33,8 @@ public class ItemTank extends ElementsEquipments.ModElement {
 
 	@Override
 	public void initElements() {
-		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("TANK", "equipments:tankarmour", 28, new int[]{452, 525, 564, 388}, 13,
-				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 2.5f);
+		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("TANK", "equipments:tankarmour", 100, new int[]{10, 14, 16, 10}, 14,
+				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 3f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("tankhelmet").setRegistryName("tankhelmet")
 				.setCreativeTab(CreativeTabs.COMBAT));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.CHEST).setUnlocalizedName("tankbody").setRegistryName("tankbody")

@@ -3,24 +3,24 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "tankiumaxe",
+    "texture": "diamond_battleaxe",
     "customModelName": "Normal",
-    "name": "Tankium Axe",
+    "name": "Diamond Battle Axe",
     "creativeTab": {
       "value": "TOOLS"
     },
     "toolType": "Axe",
-    "harvestLevel": 4,
-    "efficiency": 4.0,
-    "attackSpeed": 0.9,
-    "enchantability": 14,
-    "damageVsEntity": 18.0,
-    "usageCount": 2235,
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 15.0,
+    "usageCount": 1789,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "CUSTOM:Tankiumingot"
+        "value": "Items.DIAMOND"
       }
     ]
   }

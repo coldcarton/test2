@@ -57,11 +57,31 @@ public class BlockTankium extends ElementsEquipments.ModElement {
 			int x = chunkX + random.nextInt(16);
 			int y = random.nextInt(20) + 0;
 			int z = chunkZ + random.nextInt(16);
-			(new WorldGenMinable(block.getDefaultState(), 4, new com.google.common.base.Predicate<IBlockState>() {
+			(new WorldGenMinable(block.getDefaultState(), 2, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
 					boolean blockCriteria = false;
 					IBlockState require;
 					if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
+						blockCriteria = true;
+					require = Blocks.STONE.getStateFromMeta(1);
+					try {
+						if ((blockAt.getBlock() == require.getBlock())
+								&& (blockAt.getBlock().getMetaFromState(blockAt) == require.getBlock().getMetaFromState(require)))
+							blockCriteria = true;
+					} catch (Exception e) {
+						if (blockAt.getBlock() == require.getBlock())
+							blockCriteria = true;
+					}
+					require = Blocks.STONE.getStateFromMeta(3);
+					try {
+						if ((blockAt.getBlock() == require.getBlock())
+								&& (blockAt.getBlock().getMetaFromState(blockAt) == require.getBlock().getMetaFromState(require)))
+							blockCriteria = true;
+					} catch (Exception e) {
+						if (blockAt.getBlock() == require.getBlock())
+							blockCriteria = true;
+					}
+					if (blockAt.getBlock() == Blocks.GRAVEL.getDefaultState().getBlock())
 						blockCriteria = true;
 					return blockCriteria;
 				}

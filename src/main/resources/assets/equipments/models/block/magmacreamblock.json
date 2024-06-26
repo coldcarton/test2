@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "equipments:blocks/magmablock",
+    "up": "equipments:blocks/magmablock",
+    "north": "equipments:blocks/magmablock",
+    "east": "equipments:blocks/magmablock",
+    "south": "equipments:blocks/magmablock",
+    "west": "equipments:blocks/magmablock",
+    "particle": "equipments:blocks/magmablock"
+  }
+}

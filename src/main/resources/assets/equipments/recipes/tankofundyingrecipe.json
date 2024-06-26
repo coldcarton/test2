@@ -1,0 +1,30 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "equipments:magmacreamblock"
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "equipments:magmacreamblock"
+    }
+  },
+  "result": {
+    "item": "equipments:tankofundying",
+    "count": 1
+  }
+}

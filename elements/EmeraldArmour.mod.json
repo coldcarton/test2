@@ -3,21 +3,21 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "tankhelment",
+    "textureHelmet": "meraldelmat",
     "enableBody": true,
-    "textureBody": "tankbody",
+    "textureBody": "meraldhestplate",
     "enableLeggings": true,
-    "textureLeggings": "tankleggings",
+    "textureLeggings": "emeraldleggings",
     "enableBoots": true,
-    "textureBoots": "tankboots",
+    "textureBoots": "emeraldboots",
     "creativeTab": {
       "value": "COMBAT"
     },
-    "armorTextureFile": "tankarmour",
-    "helmetName": "Tankium Helmet",
-    "bodyName": "Tankium Chestplate",
-    "leggingsName": "Tankium Leggings",
-    "bootsName": "Tankium Boots",
+    "armorTextureFile": "emeraldarmour",
+    "helmetName": "Emerald  Helmet",
+    "bodyName": "Emerald  Chestplate",
+    "leggingsName": "Emerald  Leggings",
+    "bootsName": "Emerald  Boots",
     "helmetModelName": "Default",
     "helmetModelPart": "Helmet",
     "helmetModelTexture": "From armor",
@@ -32,20 +32,16 @@
     "bootsModelPartL": "Boots L",
     "bootsModelPartR": "Boots R",
     "bootsModelTexture": "From armor",
-    "maxDamage": 100,
-    "damageValueHelmet": 10,
-    "damageValueBody": 16,
-    "damageValueLeggings": 14,
-    "damageValueBoots": 10,
-    "enchantability": 14,
-    "toughness": 3.0,
+    "maxDamage": 75,
+    "damageValueHelmet": 7,
+    "damageValueBody": 12,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 7,
+    "enchantability": 13,
+    "toughness": 2.0,
     "equipSound": {
       "value": ""
     },
-    "repairItems": [
-      {
-        "value": "CUSTOM:Tankiumingot"
-      }
-    ]
+    "repairItems": []
   }
 }

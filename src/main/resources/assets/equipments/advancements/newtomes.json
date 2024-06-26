@@ -1,0 +1,45 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "title": {
+      "translate": "advancements.newtomes.title"
+    },
+    "description": {
+      "translate": "advancements.newtomes.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "newtomes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:totem_of_undying",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "equipments:strengthofundyingrecipe",
+      "equipments:flameofundyingrecipe",
+      "equipments:speedofundyingrecipy",
+      "equipments:regenerationofundyingrecipy",
+      "equipments:resistenceofundyingrecipy",
+      "equipments:tankofundyingrecipe"
+    ]
+  }
+}

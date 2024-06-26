@@ -1,0 +1,42 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:reeds"
+    },
+    "1": {
+      "item": "minecraft:sugar"
+    },
+    "2": {
+      "item": "minecraft:reeds"
+    },
+    "3": {
+      "item": "minecraft:sugar"
+    },
+    "4": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "5": {
+      "item": "minecraft:sugar"
+    },
+    "6": {
+      "item": "minecraft:reeds"
+    },
+    "7": {
+      "item": "minecraft:sugar"
+    },
+    "8": {
+      "item": "minecraft:reeds"
+    }
+  },
+  "result": {
+    "item": "equipments:speedofundying",
+    "count": 1
+  }
+}

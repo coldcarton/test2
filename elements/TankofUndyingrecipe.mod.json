@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MagmaCreamBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Items.TOTEM_OF_UNDYING"
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MagmaCreamBlock"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TankofUndying"
+    },
+    "name": "tankofundyingrecipe",
+    "namespace": "mod"
+  }
+}

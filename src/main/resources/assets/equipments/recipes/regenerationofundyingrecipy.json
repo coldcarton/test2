@@ -1,0 +1,19 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:totem_of_undying"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "result": {
+    "item": "equipments:regenerationofundying",
+    "count": 1
+  }
+}

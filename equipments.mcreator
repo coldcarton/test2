@@ -86,19 +86,338 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "StrengthOfUndying",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StrengthOfUndyingProcedure",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StrengthOfUndyingRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FlameOfUndying",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FlameOfUndyingProcedure",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MagmaCreamBlock",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagmaCreamBlockRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FlameOfUndyingRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Speedofundying",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Speedofundyingprucedure",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Speedofundyingrecipy",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Regenerationofundying",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RegenerationofUndyingprocedure",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RegenerationofUndyingrecipy",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ResistenceofUndying",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ResistenceofUndyingProcedure",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ResistenceofUndyingRecipy",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TankofUndying",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TankofUndyingprocedure",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TankofUndyingrecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondBattleAxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondBattleaxeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldArmour",
+      "type": "armor",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Emeraldmour1",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldmour4",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldmour2",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldmour3",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagmaArmour",
+      "type": "armor",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MagmaIngot",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "NewTomes",
+      "type": "achievement",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.tankbody.name": "Tankium Chestplate",
-      "item.tankiumingot.name": "Tankium ingot",
-      "item.tankhelmet.name": "Tankium Helmet",
-      "item.tankiumaxe.name": "Tankium Axe",
-      "item.tanklegs.name": "Tankium Leggings",
+      "item.flameofundying.name": "Flame Of Undying",
+      "item.diamondbattleaxe.name": "Diamond Battle Axe",
+      "item.magmaarmourhelmet.name": "Magma Helmet",
       "tile.tankium.name": "Tankium ore",
-      "item.tankboots.name": "Tankium Boots"
+      "item.tankofundying.name": "Tank of Undying",
+      "item.emeraldarmourhelmet.name": "Emerald  Helmet",
+      "advancements.newtomes.title": "New Tomes",
+      "item.tankbody.name": "Tankium Chestplate",
+      "item.speedofundying.name": "Speed of Undying",
+      "item.regenerationofundying.name": "Regeneration of Undying",
+      "item.magmaingot.name": "Magma Ingot",
+      "advancements.newtomes.descr": "Expand to a new exitance of totems",
+      "item.resistenceofundying.name": "Resistence of Undying",
+      "item.tankiumingot.name": "Tankium ingot",
+      "item.tankiumaxe.name": "Tankium Axe",
+      "item.magmaarmourboots.name": "Magma Boots",
+      "tile.magmacreamblock.name": "Magma Cream Block",
+      "item.magmaarmourbody.name": "Magma Chestplate",
+      "item.tankboots.name": "Tankium Boots",
+      "item.emeraldarmourbody.name": "Emerald  Chestplate",
+      "item.tankhelmet.name": "Tankium Helmet",
+      "item.strengthofundying.name": "Strength Of Undying",
+      "item.tanklegs.name": "Tankium Leggings",
+      "item.emeraldarmourboots.name": "Emerald  Boots",
+      "item.magmaarmourlegs.name": "Magma Leggings",
+      "item.emeraldarmourlegs.name": "Emerald  Leggings"
     }
   },
   "workspaceSettings": {

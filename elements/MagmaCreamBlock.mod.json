@@ -2,12 +2,12 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "tankium",
-    "textureTop": "tankium",
-    "textureLeft": "tankium",
-    "textureFront": "tankium",
-    "textureRight": "tankium",
-    "textureBack": "tankium",
+    "texture": "magmablock",
+    "textureTop": "magmablock",
+    "textureLeft": "magmablock",
+    "textureFront": "magmablock",
+    "textureRight": "magmablock",
+    "textureBack": "magmablock",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,7 +20,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Tankium ore",
+    "name": "Magma Cream Block",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -31,9 +31,9 @@
     "destroyTool": "Not specified",
     "affectedBySilkTouch": true,
     "customDrop": {
-      "value": ""
+      "value": "Items.MAGMA_CREAM"
     },
-    "dropAmount": 1,
+    "dropAmount": 9,
     "isBeaconBase": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -77,27 +77,12 @@
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
-    "spawnWorldTypes": [
-      "Surface"
-    ],
+    "spawnWorldTypes": [],
     "restrictionBiomes": [],
-    "blocksToReplace": [
-      {
-        "value": "Blocks.STONE"
-      },
-      {
-        "value": "Blocks.STONE#1"
-      },
-      {
-        "value": "Blocks.STONE#3"
-      },
-      {
-        "value": "Blocks.GRAVEL"
-      }
-    ],
-    "frequencyPerChunks": 1,
-    "frequencyOnChunk": 2,
+    "blocksToReplace": [],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 20
+    "maxGenerateHeight": 0
   }
 }

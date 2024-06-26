@@ -1,0 +1,22 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_wart"
+    },
+    "1": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "2": {
+      "item": "equipments:magmacreamblock"
+    }
+  },
+  "result": {
+    "item": "equipments:flameofundying",
+    "count": 1
+  }
+}
