@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "magmaingot",
+    "texture": "lavaingot",
     "customModelName": "Normal",
     "name": "Magmium Cream Ingot",
     "creativeTab": {
