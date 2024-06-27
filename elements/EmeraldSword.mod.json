@@ -3,24 +3,24 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "diamond_battleaxe",
+    "texture": "emeraldsword",
     "customModelName": "Normal",
-    "name": "Diamond Battle Axe",
+    "name": "Emerald Sword",
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Axe",
-    "harvestLevel": 3,
+    "toolType": "Sword",
+    "harvestLevel": 1,
     "efficiency": 4.0,
-    "attackSpeed": 1.0,
-    "enchantability": 10,
-    "damageVsEntity": 15.0,
-    "usageCount": 1789,
+    "attackSpeed": 1.2,
+    "enchantability": 15,
+    "damageVsEntity": 9.0,
+    "usageCount": 1846,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "Items.DIAMOND"
+        "value": "Items.EMERALD"
       }
     ]
   }

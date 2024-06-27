@@ -46,7 +46,7 @@ public class ItemTankiumaxe extends ElementsEquipments.ModElement {
 				.newHashSet(new Block[]{Blocks.PLANKS, Blocks.BOOKSHELF, Blocks.LOG, Blocks.LOG2, Blocks.CHEST, Blocks.PUMPKIN, Blocks.LIT_PUMPKIN,
 						Blocks.MELON_BLOCK, Blocks.LADDER, Blocks.WOODEN_BUTTON, Blocks.WOODEN_PRESSURE_PLATE});
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("TANKIUMAXE", 4, 2235, 4f, 14f, 14), effective_items_set);
+			super(EnumHelper.addToolMaterial("TANKIUMAXE", 4, 2235, 4f, 14f, 10), effective_items_set);
 			this.attackDamage = 14f;
 			this.attackSpeed = -3.1f;
 		}

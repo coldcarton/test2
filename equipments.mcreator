@@ -386,6 +386,46 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "EmeraldSword",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldswordRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldBattleAxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldbattleaxerecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagmiumIngut",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -394,7 +434,7 @@
     "en_us": {
       "item.flameofundying.name": "Flame Of Undying",
       "item.diamondbattleaxe.name": "Diamond Battle Axe",
-      "item.magmaarmourhelmet.name": "Magma Helmet",
+      "item.magmaarmourhelmet.name": "Magmium Helmet",
       "tile.tankium.name": "Tankium ore",
       "item.tankofundying.name": "Tank of Undying",
       "item.emeraldarmourhelmet.name": "Emerald  Helmet",
@@ -402,21 +442,24 @@
       "item.tankbody.name": "Tankium Chestplate",
       "item.speedofundying.name": "Speed of Undying",
       "item.regenerationofundying.name": "Regeneration of Undying",
-      "item.magmaingot.name": "Magma Ingot",
+      "item.magmaingot.name": "Magmium Cream Ingot",
+      "item.emeraldsword.name": "Emerald Sword",
       "advancements.newtomes.descr": "Expand to a new exitance of totems",
       "item.resistenceofundying.name": "Resistence of Undying",
       "item.tankiumingot.name": "Tankium ingot",
       "item.tankiumaxe.name": "Tankium Axe",
-      "item.magmaarmourboots.name": "Magma Boots",
+      "item.magmaarmourboots.name": "Magmium Boots",
       "tile.magmacreamblock.name": "Magma Cream Block",
-      "item.magmaarmourbody.name": "Magma Chestplate",
+      "item.magmaarmourbody.name": "Magmium Chestplate",
+      "item.magmiumingut.name": "Magmium Ingut",
       "item.tankboots.name": "Tankium Boots",
       "item.emeraldarmourbody.name": "Emerald  Chestplate",
       "item.tankhelmet.name": "Tankium Helmet",
       "item.strengthofundying.name": "Strength Of Undying",
       "item.tanklegs.name": "Tankium Leggings",
       "item.emeraldarmourboots.name": "Emerald  Boots",
-      "item.magmaarmourlegs.name": "Magma Leggings",
+      "item.emeraldbattleaxe.name": "Emerald Battle Axe",
+      "item.magmaarmourlegs.name": "Magmium Leggings",
       "item.emeraldarmourlegs.name": "Emerald  Leggings"
     }
   },

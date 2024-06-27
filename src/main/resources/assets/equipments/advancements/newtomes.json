@@ -23,7 +23,7 @@
           {
             "item": "minecraft:totem_of_undying",
             "count": {
-              "min": 1,
+              "min": 0,
               "max": 1
             }
           }
