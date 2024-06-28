@@ -23,32 +23,32 @@ import net.mcreator.equipments.ElementsEquipments;
 import java.util.Set;
 
 @ElementsEquipments.ModElement.Tag
-public class ItemTankiumaxe extends ElementsEquipments.ModElement {
-	@GameRegistry.ObjectHolder("equipments:tankiumaxe")
+public class ItemTankiumAxe2 extends ElementsEquipments.ModElement {
+	@GameRegistry.ObjectHolder("equipments:tankiumaxe2")
 	public static final Item block = null;
-	public ItemTankiumaxe(ElementsEquipments instance) {
-		super(instance, 9);
+	public ItemTankiumAxe2(ElementsEquipments instance) {
+		super(instance, 45);
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemToolCustom() {
-		}.setUnlocalizedName("tankiumaxe").setRegistryName("tankiumaxe").setCreativeTab(CreativeTabs.TOOLS));
+		}.setUnlocalizedName("tankiumaxe2").setRegistryName("tankiumaxe2").setCreativeTab(CreativeTabs.TOOLS));
 	}
 
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("equipments:tankiumaxe", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("equipments:tankiumaxe2", "inventory"));
 	}
 	private static class ItemToolCustom extends ItemTool {
 		private static final Set<Block> effective_items_set = com.google.common.collect.Sets
 				.newHashSet(new Block[]{Blocks.PLANKS, Blocks.BOOKSHELF, Blocks.LOG, Blocks.LOG2, Blocks.CHEST, Blocks.PUMPKIN, Blocks.LIT_PUMPKIN,
 						Blocks.MELON_BLOCK, Blocks.LADDER, Blocks.WOODEN_BUTTON, Blocks.WOODEN_PRESSURE_PLATE});
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("TANKIUMAXE", 3, 2432, 4f, 14f, 10), effective_items_set);
-			this.attackDamage = 14f;
-			this.attackSpeed = -3.1f;
+			super(EnumHelper.addToolMaterial("TANKIUMAXE2", 4, 2273, 5f, 10f, 10), effective_items_set);
+			this.attackDamage = 10f;
+			this.attackSpeed = -2.9f;
 		}
 
 		@Override

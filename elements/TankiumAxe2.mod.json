@@ -3,24 +3,24 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "emeraldbattleaxe",
+    "texture": "tankiumaxe",
     "customModelName": "Normal",
-    "name": "Emerald Battle Axe",
+    "name": "Tankium Axe",
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Pickaxe",
+    "toolType": "Axe",
     "harvestLevel": 4,
     "efficiency": 5.0,
-    "attackSpeed": 1.2,
-    "enchantability": 12,
-    "damageVsEntity": 16.0,
+    "attackSpeed": 1.1,
+    "enchantability": 10,
+    "damageVsEntity": 14.0,
     "usageCount": 2273,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:Tankiumingot"
       }
     ]
   }

@@ -29,7 +29,7 @@ public class ItemEmeraldBattleAxe extends ElementsEquipments.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("EMERALDBATTLEAXE", 4, 1956, 5f, 12f, 12)) {
+		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("EMERALDBATTLEAXE", 4, 2273, 5f, 12f, 12)) {
 			{
 				this.attackSpeed = -2.8f;
 			}

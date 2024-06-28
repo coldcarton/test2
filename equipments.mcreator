@@ -426,6 +426,46 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Tankiumblock",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tankiumblockrecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TankiumAxe2",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tankiumaxerecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldAxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -446,9 +486,12 @@
       "item.emeraldsword.name": "Emerald Sword",
       "advancements.newtomes.descr": "Expand to a new exitance of totems",
       "item.resistenceofundying.name": "Resistence of Undying",
+      "item.emeraldaxe.name": "Emerald Axe",
       "item.tankiumingot.name": "Tankium ingot",
-      "item.tankiumaxe.name": "Tankium Axe",
+      "item.tankiumaxe.name": "Tankium Battle Axe",
+      "item.tankiumaxe2.name": "Tankium Axe",
       "item.magmaarmourboots.name": "Magmium Boots",
+      "tile.tankiumblock.name": "Tankium Block",
       "tile.magmacreamblock.name": "Magma Cream Block",
       "item.magmaarmourbody.name": "Magmium Chestplate",
       "item.magmiumingut.name": "Magmium Ingut",

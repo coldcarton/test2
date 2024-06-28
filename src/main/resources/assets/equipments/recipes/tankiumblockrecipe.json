@@ -2,29 +2,41 @@
   "group": "equipments",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 1 ",
+    "012",
     "345",
-    " 7 "
+    "678"
   ],
   "key": {
+    "0": {
+      "item": "equipments:tankiumingot"
+    },
     "1": {
+      "item": "equipments:tankiumingot"
+    },
+    "2": {
       "item": "equipments:tankiumingot"
     },
     "3": {
       "item": "equipments:tankiumingot"
     },
     "4": {
-      "item": "equipments:tankiumaxe2"
+      "item": "equipments:tankiumingot"
     },
     "5": {
       "item": "equipments:tankiumingot"
     },
+    "6": {
+      "item": "equipments:tankiumingot"
+    },
     "7": {
+      "item": "equipments:tankiumingot"
+    },
+    "8": {
       "item": "equipments:tankiumingot"
     }
   },
   "result": {
-    "item": "equipments:tankiumaxe",
+    "item": "equipments:tankiumblock",
     "count": 1
   }
 }

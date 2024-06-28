@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "agmamour_head",
+    "textureHelmet": "magmiumhelmat",
     "enableBody": true,
-    "textureBody": "agmamour_body",
+    "textureBody": "magmiumchestplate",
     "enableLeggings": true,
-    "textureLeggings": "agmamour_leggings",
+    "textureLeggings": "magmiumleggings",
     "enableBoots": true,
-    "textureBoots": "agmamour_boots",
+    "textureBoots": "magmuimboots",
     "creativeTab": {
       "value": "COMBAT"
     },
-    "armorTextureFile": "agmamour",
+    "armorTextureFile": "magniumarmor",
     "helmetName": "Magmium Helmet",
     "bodyName": "Magmium Chestplate",
     "leggingsName": "Magmium Leggings",
@@ -42,6 +42,10 @@
     "equipSound": {
       "value": ""
     },
-    "repairItems": []
+    "repairItems": [
+      {
+        "value": "CUSTOM:MagmiumIngut"
+      }
+    ]
   }
 }

@@ -33,7 +33,7 @@ public class ItemMagmaArmour extends ElementsEquipments.ModElement {
 
 	@Override
 	public void initElements() {
-		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("MAGMAARMOUR", "equipments:agmamour", 25, new int[]{2, 5, 6, 2}, 9,
+		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("MAGMAARMOUR", "equipments:magniumarmor", 25, new int[]{2, 5, 6, 2}, 9,
 				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 0f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("magmaarmourhelmet")
 				.setRegistryName("magmaarmourhelmet").setCreativeTab(CreativeTabs.COMBAT));

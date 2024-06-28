@@ -9,37 +9,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:Tankiumingot"
       },
       {
         "value": "CUSTOM:Tankiumingot"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Tankiumingot"
       },
       {
         "value": "CUSTOM:Tankiumingot"
       },
       {
-        "value": "CUSTOM:TankiumAxe2"
+        "value": "CUSTOM:Tankiumingot"
       },
       {
         "value": "CUSTOM:Tankiumingot"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Tankiumingot"
       },
       {
         "value": "CUSTOM:Tankiumingot"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Tankiumingot"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Tankiumaxe"
+      "value": "CUSTOM:Tankiumblock"
     },
-    "name": "tankiumaxerecip",
+    "name": "tankiumblockrecipe",
     "namespace": "mod"
   }
 }

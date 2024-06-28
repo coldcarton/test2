@@ -3,19 +3,19 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "emeraldbattleaxe",
+    "texture": "emeraldaxe",
     "customModelName": "Normal",
-    "name": "Emerald Battle Axe",
+    "name": "Emerald Axe",
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Pickaxe",
+    "toolType": "Axe",
     "harvestLevel": 4,
     "efficiency": 5.0,
     "attackSpeed": 1.2,
-    "enchantability": 12,
-    "damageVsEntity": 16.0,
-    "usageCount": 2273,
+    "enchantability": 14,
+    "damageVsEntity": 12.0,
+    "usageCount": 1956,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
