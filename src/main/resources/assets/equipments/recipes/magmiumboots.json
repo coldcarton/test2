@@ -1,0 +1,26 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:magmaingot"
+    },
+    "2": {
+      "item": "equipments:magmaingot"
+    },
+    "3": {
+      "item": "equipments:magmiumingut"
+    },
+    "5": {
+      "item": "equipments:magmiumingut"
+    }
+  },
+  "result": {
+    "item": "equipments:magmaarmourboots",
+    "count": 1
+  }
+}

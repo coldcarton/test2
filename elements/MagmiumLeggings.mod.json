@@ -9,37 +9,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:MagmiumIngut"
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:MagmaIngot"
       },
       {
-        "value": ""
+        "value": "CUSTOM:MagmiumIngut"
       },
       {
-        "value": "Items.EMERALD"
-      },
-      {
-        "value": "CUSTOM:EmeraldAxe"
-      },
-      {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:MagmiumIngut"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:MagmiumIngut"
+      },
+      {
+        "value": "CUSTOM:MagmiumIngut"
       },
       {
         "value": ""
+      },
+      {
+        "value": "CUSTOM:MagmiumIngut"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EmeraldBattleAxe"
+      "value": "CUSTOM:MagmaArmour.legs"
     },
-    "name": "emeraldbattleaxerecipe",
+    "name": "magmiumleggings",
     "namespace": "mod"
   }
 }

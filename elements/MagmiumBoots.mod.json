@@ -12,34 +12,34 @@
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
-      },
-      {
-        "value": "CUSTOM:EmeraldAxe"
-      },
-      {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:MagmaIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:MagmaIngot"
+      },
+      {
+        "value": "CUSTOM:MagmiumIngut"
       },
       {
         "value": ""
+      },
+      {
+        "value": "CUSTOM:MagmiumIngut"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EmeraldBattleAxe"
+      "value": "CUSTOM:MagmaArmour.boots"
     },
-    "name": "emeraldbattleaxerecipe",
+    "name": "magmiumboots",
     "namespace": "mod"
   }
 }

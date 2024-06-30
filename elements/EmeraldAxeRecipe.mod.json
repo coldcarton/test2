@@ -9,7 +9,7 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.EMERALD"
       },
       {
         "value": "Items.EMERALD"
@@ -21,25 +21,25 @@
         "value": "Items.EMERALD"
       },
       {
-        "value": "CUSTOM:EmeraldAxe"
-      },
-      {
-        "value": "Items.EMERALD"
+        "value": "Items.STICK"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EmeraldBattleAxe"
+      "value": "CUSTOM:EmeraldAxe"
     },
-    "name": "emeraldbattleaxerecipe",
+    "name": "emeraldaxerecipe",
     "namespace": "mod"
   }
 }
