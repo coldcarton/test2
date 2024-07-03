@@ -1,0 +1,42 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:emeraldnugget"
+    },
+    "1": {
+      "item": "equipments:emeraldnugget"
+    },
+    "2": {
+      "item": "equipments:emeraldnugget"
+    },
+    "3": {
+      "item": "equipments:emeraldnugget"
+    },
+    "4": {
+      "item": "equipments:emeraldnugget"
+    },
+    "5": {
+      "item": "equipments:emeraldnugget"
+    },
+    "6": {
+      "item": "equipments:emeraldnugget"
+    },
+    "7": {
+      "item": "equipments:emeraldnugget"
+    },
+    "8": {
+      "item": "equipments:emeraldnugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 1
+  }
+}

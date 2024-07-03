@@ -1,0 +1,45 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "equipments:tankiumingot"
+    },
+    "title": {
+      "translate": "advancements.foundtankium.title"
+    },
+    "description": {
+      "translate": "advancements.foundtankium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "foundtankium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "equipments:tankium",
+            "count": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "equipments:strengthofundyingrecipe",
+      "equipments:flameofundyingrecipe",
+      "equipments:speedofundyingrecipy",
+      "equipments:regenerationofundyingrecipy",
+      "equipments:resistenceofundyingrecipy",
+      "equipments:tankofundyingrecipe"
+    ]
+  }
+}

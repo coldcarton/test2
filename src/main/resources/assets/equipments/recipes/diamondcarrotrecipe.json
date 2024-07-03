@@ -1,0 +1,42 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:diamondnugget"
+    },
+    "1": {
+      "item": "equipments:diamondnugget"
+    },
+    "2": {
+      "item": "equipments:diamondnugget"
+    },
+    "3": {
+      "item": "equipments:diamondnugget"
+    },
+    "4": {
+      "item": "minecraft:golden_carrot"
+    },
+    "5": {
+      "item": "equipments:diamondnugget"
+    },
+    "6": {
+      "item": "equipments:diamondnugget"
+    },
+    "7": {
+      "item": "equipments:diamondnugget"
+    },
+    "8": {
+      "item": "equipments:diamondnugget"
+    }
+  },
+  "result": {
+    "item": "equipments:diamondcarrot",
+    "count": 1
+  }
+}

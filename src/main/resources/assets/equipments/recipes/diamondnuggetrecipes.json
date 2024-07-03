@@ -1,0 +1,16 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "equipments:diamondnugget",
+    "count": 9
+  }
+}

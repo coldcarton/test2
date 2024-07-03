@@ -1,0 +1,16 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "equipments:emeraldnugget",
+    "count": 9
+  }
+}

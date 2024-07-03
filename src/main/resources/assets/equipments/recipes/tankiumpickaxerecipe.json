@@ -1,0 +1,30 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:tankiumingot"
+    },
+    "1": {
+      "item": "equipments:tankiumingot"
+    },
+    "2": {
+      "item": "equipments:tankiumingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "equipments:tankiumpickaxe",
+    "count": 1
+  }
+}
