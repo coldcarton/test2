@@ -52,7 +52,7 @@ public class ItemEmeraldSword extends ElementsEquipments.ModElement {
 				ret.put("sword", 1);
 				return ret.keySet();
 			}
-		}.setUnlocalizedName("emeraldsword").setRegistryName("emeraldsword").setCreativeTab(CreativeTabs.TOOLS));
+		}.setUnlocalizedName("emeraldsword").setRegistryName("emeraldsword").setCreativeTab(CreativeTabs.COMBAT));
 	}
 
 	@SideOnly(Side.CLIENT)

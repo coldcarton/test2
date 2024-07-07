@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Tankium Sword",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "COMBAT"
     },
     "toolType": "Sword",
     "harvestLevel": 1,

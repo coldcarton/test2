@@ -52,7 +52,7 @@ public class ItemTankiumSword extends ElementsEquipments.ModElement {
 				ret.put("sword", 1);
 				return ret.keySet();
 			}
-		}.setUnlocalizedName("tankiumsword").setRegistryName("tankiumsword").setCreativeTab(CreativeTabs.TOOLS));
+		}.setUnlocalizedName("tankiumsword").setRegistryName("tankiumsword").setCreativeTab(CreativeTabs.COMBAT));
 	}
 
 	@SideOnly(Side.CLIENT)
