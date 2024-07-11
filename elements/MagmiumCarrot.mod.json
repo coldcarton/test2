@@ -3,9 +3,9 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "emeraldcarrot",
+    "texture": "magmiumcarrot",
     "customModelName": "Normal",
-    "name": "Emerald Carrot",
+    "name": "Magmium Carrot",
     "creativeTab": {
       "value": "FOOD"
     },
@@ -16,6 +16,9 @@
     "forDogs": false,
     "isAlwaysEdible": true,
     "animation": "eat",
-    "hasGlow": false
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MagmiumCarrotFoodEaten"
+    }
   }
 }

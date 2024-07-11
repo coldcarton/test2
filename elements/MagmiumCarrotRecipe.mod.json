@@ -9,37 +9,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
         "value": "Items.CARROT"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:MagmiumNugget"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DiamondCarrot"
+      "value": "CUSTOM:MagmiumCarrot"
     },
-    "name": "diamondcarrotrecipe",
+    "name": "magmiumcarrotrecipe",
     "namespace": "mod"
   }
 }

@@ -21,7 +21,7 @@
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:MagmiumIngut"
       },
       {
         "value": ""
@@ -37,9 +37,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EmeraldNugget"
+      "value": "CUSTOM:MagmiumNugget"
     },
-    "name": "emeraldtonugget",
+    "name": "magmiumtonugget",
     "namespace": "mod"
   }
 }

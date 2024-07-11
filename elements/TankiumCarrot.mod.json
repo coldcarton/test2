@@ -3,9 +3,9 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "emeraldcarrot",
+    "texture": "tankiumcarrot",
     "customModelName": "Normal",
-    "name": "Emerald Carrot",
+    "name": "Tankium Carrot",
     "creativeTab": {
       "value": "FOOD"
     },
@@ -16,6 +16,9 @@
     "forDogs": false,
     "isAlwaysEdible": true,
     "animation": "eat",
-    "hasGlow": false
+    "hasGlow": false,
+    "onEaten": {
+      "name": "EmeraldCarrotFoodEaten"
+    }
   }
 }

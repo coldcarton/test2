@@ -21,7 +21,7 @@
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:Tankiumingot"
       },
       {
         "value": ""
@@ -37,9 +37,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EmeraldNugget"
+      "value": "CUSTOM:TankiumNugget"
     },
-    "name": "emeraldtonugget",
+    "name": "tankiumtonugget",
     "namespace": "mod"
   }
 }

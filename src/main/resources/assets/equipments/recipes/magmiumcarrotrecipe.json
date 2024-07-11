@@ -1,0 +1,42 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:magmiumnugget"
+    },
+    "1": {
+      "item": "equipments:magmiumnugget"
+    },
+    "2": {
+      "item": "equipments:magmiumnugget"
+    },
+    "3": {
+      "item": "equipments:magmiumnugget"
+    },
+    "4": {
+      "item": "minecraft:carrot"
+    },
+    "5": {
+      "item": "equipments:magmiumnugget"
+    },
+    "6": {
+      "item": "equipments:magmiumnugget"
+    },
+    "7": {
+      "item": "equipments:magmiumnugget"
+    },
+    "8": {
+      "item": "equipments:magmiumnugget"
+    }
+  },
+  "result": {
+    "item": "equipments:magmiumcarrot",
+    "count": 1
+  }
+}

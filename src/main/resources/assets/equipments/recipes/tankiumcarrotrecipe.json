@@ -1,0 +1,42 @@
+{
+  "group": "equipments",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "equipments:tankiumnugget"
+    },
+    "1": {
+      "item": "equipments:tankiumnugget"
+    },
+    "2": {
+      "item": "equipments:tankiumnugget"
+    },
+    "3": {
+      "item": "equipments:tankiumnugget"
+    },
+    "4": {
+      "item": "minecraft:carrot"
+    },
+    "5": {
+      "item": "equipments:tankiumnugget"
+    },
+    "6": {
+      "item": "equipments:tankiumnugget"
+    },
+    "7": {
+      "item": "equipments:tankiumnugget"
+    },
+    "8": {
+      "item": "equipments:tankiumnugget"
+    }
+  },
+  "result": {
+    "item": "equipments:tankiumcarrot",
+    "count": 1
+  }
+}

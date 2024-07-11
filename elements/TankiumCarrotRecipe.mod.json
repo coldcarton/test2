@@ -9,37 +9,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
         "value": "Items.CARROT"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       },
       {
-        "value": "CUSTOM:DiamondNugget"
+        "value": "CUSTOM:TankiumNugget"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DiamondCarrot"
+      "value": "CUSTOM:TankiumCarrot"
     },
-    "name": "diamondcarrotrecipe",
+    "name": "tankiumcarrotrecipe",
     "namespace": "mod"
   }
 }

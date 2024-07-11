@@ -706,16 +706,130 @@
           }
         ]
       }
+    },
+    {
+      "name": "EmeraldCarrotFoodEaten",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TankiumCarrot",
+      "type": "food",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TankiumNugget",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tankiumtonugget",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "NuggetToTankium",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TankiumCarrotRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagmiumCarrotFoodEaten",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MagmiumCarrot",
+      "type": "food",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagmiumNugget",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Magmiumtonugget",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Nuggettomagmium",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagmiumCarrotRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.emeraldcarrot.name": "Diamond Carrot",
+      "item.emeraldcarrot.name": "Emerald Carrot",
       "advancements.foundtankium.descr": "Holy Tank!",
+      "item.magmiumcarrot.name": "Magmium Carrot",
       "item.flameofundying.name": "Flame Of Undying",
       "item.diamondbattleaxe.name": "Diamond Battle Axe",
+      "item.tankiumnugget.name": "Tankium Nugget",
       "item.magmaarmourhelmet.name": "Magmium Helmet",
       "tile.tankium.name": "Tankium ore",
       "item.tankiumpickaxe.name": "Tankium Pickaxe",
@@ -736,6 +850,7 @@
       "item.tankiumaxe2.name": "Tankium Axe",
       "item.magmaarmourboots.name": "Magmium Boots",
       "tile.tankiumblock.name": "Tankium Block",
+      "item.magmiumnugget.name": "Magmium Nugget",
       "tile.magmacreamblock.name": "Magma Cream Block",
       "item.magmaarmourbody.name": "Magmium Chestplate",
       "item.magmiumingut.name": "Magmium Ingut",
@@ -744,6 +859,7 @@
       "item.tankhelmet.name": "Tankium Helmet",
       "item.diamondnugget.name": "Diamond Nugget",
       "item.emeraldpickaxe.name": "Emerald Pickaxe",
+      "item.tankiumcarrot.name": "Tankium Carrot",
       "item.strengthofundying.name": "Strength Of Undying",
       "item.diamondcarrot.name": "Diamond Carrot",
       "item.tanklegs.name": "Tankium Leggings",
